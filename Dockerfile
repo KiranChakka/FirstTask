@@ -1,4 +1,4 @@
-# Dockerfile to copy gameoflife .war file to tomcat webapps path and create an image
+# Dockerfile to copy gameoflife .war file to tomcat webapps path and create an image 1
 FROM tomcat
 MAINTAINER kiranchakka
 RUN apt-get update
